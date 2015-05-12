@@ -1,0 +1,63 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "Cloudmesh"
+  url: "/cloudmesh/"
+  side: left
+  dropdown:
+  - title: "Web Page"
+    url: "http://cloudmesh.github.io"
+  - title: "Getting Started"
+    url: "http://cloudmesh.github.io/introduction_to_cloud_computing/"
+  - title: "Github"
+    url: "https://github.com/cloudmesh"
+
+- title: "Modules"
+  url: "/cloudmesh/"
+  side: left
+  dropdown:
+  - title: "Base"
+    url: "https://github.com/cloudmesh/cloudmesh"
+  - title: "CMD3"
+    url: "http://cloudmesh.github.io/cmd3/"
+  - title: "Base"
+    url: "https://github.com/cloudmesh/base"
+  - title: "PBS"
+    url: "https://github.com/cloudmesh/pbs"
+  - title: "Metric"
+    url: "https://github.com/cloudmesh/metric"
+
+- title: "FutureSystems"
+  url: "/cloudmesh/"
+  side: left
+  dropdown:
+  - title: "Cloud Resources"
+    url: "http://cloudmesh.github.io/introduction_to_cloud_computing/iaas/"
+  - title: "HPC Resources"
+    url: "http://cloudmesh.github.io/introduction_to_cloud_computing/hpc/"
+  - title: "Hardware"
+    url: "http://cloudmesh.github.io/introduction_to_cloud_computing/hardware/"
+  - title: "Metrics"
+    url: "http://cloudmesh.github.io/introduction_to_cloud_computing/hardware/"
+
+- title: Information
+  url: "/documentation/"
+  side: left
+  dropdown:
+  - title: Blog
+    url: "/blog/"
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+  - title: "Changelog"
+    url: "/changelog/"
+  - title: "Roadmap"
+    url: "/roadmap/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
