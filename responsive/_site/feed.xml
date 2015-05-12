@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloudmesh</title>
+    <description>»Cloudmesh« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Cloudmesh in Classes</title>
+        <description>&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
+    &lt;div class=&quot;panel radius&quot;&gt;
+      &lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#cloudmesh-in-classes&quot; id=&quot;markdown-toc-cloudmesh-in-classes&quot;&gt;Cloudmesh in Classes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#usage&quot; id=&quot;markdown-toc-usage&quot;&gt;Usage&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
+
+
+
+&lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
+
+    &lt;h2 id=&quot;cloudmesh-in-classes&quot;&gt;Cloudmesh in Classes&lt;/h2&gt;
+
+    &lt;p&gt;Cloudmesh can be used in classes to simplify several activities that
+occur repeatedly as part of interacting with clouds:&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;Cloudmesh allows to use multiple clouds at the same time&lt;/li&gt;
+      &lt;li&gt;The Cloudmsh shell allows stateful interactions with clouds
+reducing time to interface with the cloud, but also saving
+resources while interfacing with a local database of virtual
+machines. Updates are done on requests.&lt;/li&gt;
+      &lt;li&gt;Cloudmesh provides simple command tools to launch
+ a. virtual clusters
+ b. hadoop clusters&lt;/li&gt;
+    &lt;/ol&gt;
+
+    &lt;h2 id=&quot;usage&quot;&gt;Usage&lt;/h2&gt;
+
+    &lt;p&gt;Cloudmesh has been used in multiple classes at IU to simplify access
+to clouds and staging of virtual clusters.&lt;/p&gt;
+
+    &lt;p&gt;Students have ben able to add new cloudmesh commands while leveraging
+our easy to use templates to extend the cloudmesh command shell. A good
+example is the creation of an apache spark cluster with the help of
+cloudmesh.&lt;/p&gt;
+
+    &lt;p&gt;(Link to be posted here).&lt;/p&gt;
+
+  &lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
+&lt;/div&gt;
+&lt;!-- /.row --&gt;
+
+</description>
+        <pubDate>Mon, 11 May 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/design/classes/</link>
+        <guid isPermaLink="true">http://localhost:4000/design/classes/</guid>
+      </item>
+    
+  </channel>
+</rss>
