@@ -3,8 +3,8 @@
   <channel>
     <title>Cloudmesh</title>
     <description>»Cloudmesh« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</description>
-    <link>https://phlow.github.io/feeling-responsive/</link>
-    <atom:link href="https://phlow.github.io/feeling-responsive/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://cloudmesh.github.io/blog/</link>
+    <atom:link href="http://cloudmesh.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Cloudmesh in Classes</title>
@@ -58,8 +58,8 @@ cloudmesh.&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 11 May 2015 00:00:00 -0400</pubDate>
-        <link>https://phlow.github.io/feeling-responsive/design/classes/</link>
-        <guid isPermaLink="true">https://phlow.github.io/feeling-responsive/design/classes/</guid>
+        <link>http://cloudmesh.github.io/blog/design/classes/</link>
+        <guid isPermaLink="true">http://cloudmesh.github.io/blog/design/classes/</guid>
       </item>
     
   </channel>
